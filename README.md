@@ -7,3 +7,4 @@ This repository contains projects completed during the TripleTen Bootcamp
 | 2 | | |
 | 3 | | |
 | 4 | | |
+Updated main README to include Zuber Ride Analysis project
