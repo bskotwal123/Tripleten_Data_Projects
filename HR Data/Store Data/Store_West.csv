@@ -1,0 +1,598 @@
+store_id,employees,store_size,country,city,state,postal_code,region
+FUR-CH-10000454,44,Medium,USA,Los Angeles,California,90036,West
+FUR-TA-10000577,39,Medium,USA,Los Angeles,California,90032,West
+FUR-FU-10001487,51,Medium,USA,Seattle,Washington,98103,West
+OFF-BI-10003910,28,Medium,USA,West Jordan,Utah,84084,West
+OFF-AP-10002892,45,Small,USA,San Francisco,California,94109,West
+OFF-PA-10002365,65,Medium,USA,Orem,Utah,84057,West
+OFF-BI-10003656,66,Large,USA,Los Angeles,California,90049,West
+TEC-PH-10001949,54,Medium,USA,Los Angeles,California,90049,West
+OFF-BI-10000474,49,Medium,USA,Los Angeles,California,90004,West
+OFF-EN-10001509,46,Large,USA,Gilbert,Arizona,85234,West
+FUR-FU-10003664,42,Medium,USA,San Francisco,California,94122,West
+TEC-PH-10004093,53,Large,USA,Los Angeles,California,90036,West
+OFF-ST-10003282,59,Large,USA,Portland,Oregon,97206,West
+OFF-BI-10003291,61,Large,USA,San Francisco,California,94122,West
+OFF-BI-10004410,29,Small,USA,Aurora,Colorado,80013,West
+OFF-ST-10000604,23,Small,USA,Seattle,Washington,98103,West
+OFF-AR-10001868,32,Medium,USA,Phoenix,Arizona,85023,West
+TEC-AC-10004633,66,Large,USA,Los Angeles,California,90004,West
+OFF-PA-10003892,64,Large,USA,Roseville,California,95661,West
+FUR-CH-10001146,54,Large,USA,San Francisco,California,94122,West
+TEC-PH-10002726,29,Medium,USA,Pasadena,California,91104,West
+OFF-PA-10004675,56,Large,USA,Scottsdale,Arizona,85254,West
+FUR-CH-10000513,44,Medium,USA,San Jose,California,95123,West
+FUR-FU-10003708,53,Small,USA,Seattle,Washington,98105,West
+OFF-ST-10004123,26,Medium,USA,Seattle,Washington,98115,West
+FUR-FU-10000260,68,Medium,USA,Los Angeles,California,90045,West
+FUR-FU-10003194,56,Medium,USA,Carlsbad,New Mexico,88220,West
+OFF-AP-10002118,35,Small,USA,Seattle,Washington,98115,West
+OFF-AR-10002053,44,Small,USA,Los Angeles,California,90004,West
+OFF-ST-10003442,43,Small,USA,Los Angeles,California,90032,West
+OFF-PA-10003177,26,Small,USA,Redlands,California,92374,West
+OFF-BI-10001721,46,Medium,USA,Denver,Colorado,80219,West
+TEC-AC-10001767,21,Small,USA,Whittier,California,90604,West
+FUR-FU-10004006,46,Small,USA,Los Angeles,California,90032,West
+TEC-AC-10000844,30,Small,USA,Santa Clara,California,95051,West
+OFF-BI-10003981,40,Medium,USA,San Francisco,California,94109,West
+OFF-FA-10000621,67,Medium,USA,San Diego,California,92037,West
+OFF-ST-10000777,53,Small,USA,Brentwood,California,94513,West
+FUR-CH-10004063,21,Medium,USA,San Francisco,California,94110,West
+FUR-TA-10004534,25,Small,USA,Inglewood,California,90301,West
+OFF-ST-10002974,24,Medium,USA,Los Angeles,California,90004,West
+OFF-PA-10002377,28,Small,USA,Colorado Springs,Colorado,80906,West
+OFF-AR-10001149,69,Medium,USA,Arvada,Colorado,80004,West
+OFF-EN-10004030,46,Small,USA,Long Beach,California,90805,West
+OFF-PA-10004327,66,Large,USA,Hesperia,California,92345,West
+TEC-PH-10001448,53,Medium,USA,Los Angeles,California,90045,West
+OFF-BI-10002735,61,Large,USA,San Francisco,California,94122,West
+OFF-AP-10000326,57,Large,USA,San Francisco,California,94122,West
+OFF-LA-10002475,57,Medium,USA,San Francisco,California,94109,West
+TEC-AC-10003657,40,Small,USA,Tucson,Arizona,85705,West
+TEC-MA-10000822,57,Large,USA,San Francisco,California,94109,West
+OFF-PA-10000659,20,Small,USA,Des Moines,Washington,98198,West
+FUR-CH-10003817,32,Medium,USA,Las Vegas,Nevada,89115,West
+OFF-SU-10002189,70,Large,USA,San Francisco,California,94110,West
+OFF-AR-10001940,68,Large,USA,Seattle,Washington,98105,West
+OFF-ST-10003455,47,Large,USA,Huntington Beach,California,92646,West
+TEC-AC-10004659,48,Medium,USA,Los Angeles,California,90004,West
+OFF-AR-10004027,57,Large,USA,Concord,California,94521,West
+OFF-ST-10001414,65,Medium,USA,Phoenix,Arizona,85023,West
+OFF-PA-10002666,24,Medium,USA,San Francisco,California,94110,West
+OFF-AP-10003217,42,Medium,USA,San Diego,California,92024,West
+TEC-PH-10001918,31,Small,USA,Los Angeles,California,90045,West
+OFF-ST-10001522,63,Large,USA,Seattle,Washington,98115,West
+FUR-BO-10004695,51,Small,USA,Parker,Colorado,80134,West
+TEC-PH-10002563,27,Small,USA,Los Angeles,California,90049,West
+OFF-AR-10001026,60,Medium,USA,Los Angeles,California,90036,West
+FUR-TA-10003748,34,Small,USA,Los Angeles,California,90032,West
+FUR-CH-10004860,49,Medium,USA,Mesa,Arizona,85204,West
+TEC-AC-10003832,37,Small,USA,San Francisco,California,94110,West
+FUR-FU-10000576,39,Medium,USA,Los Angeles,California,90045,West
+FUR-FU-10004351,26,Small,USA,San Francisco,California,94110,West
+FUR-TA-10002607,54,Large,USA,Seattle,Washington,98105,West
+FUR-FU-10002505,29,Small,USA,Los Angeles,California,90008,West
+OFF-ST-10002276,60,Large,USA,Seattle,Washington,98105,West
+OFF-AP-10002945,47,Large,USA,Marysville,Washington,98270,West
+FUR-CH-10002965,26,Medium,USA,Long Beach,California,90805,West
+OFF-ST-10001228,24,Medium,USA,Los Angeles,California,90004,West
+OFF-EN-10003296,64,Medium,USA,Denver,Colorado,80219,West
+TEC-PH-10001580,26,Small,USA,Salem,Oregon,97301,West
+OFF-ST-10002790,55,Medium,USA,San Diego,California,92024,West
+FUR-FU-10003274,48,Large,USA,Seattle,Washington,98115,West
+OFF-BI-10002557,49,Medium,USA,Aurora,Colorado,80013,West
+OFF-AR-10001427,35,Small,USA,Aurora,Colorado,80013,West
+OFF-PA-10004470,45,Small,USA,Mission Viejo,California,92691,West
+OFF-BI-10004967,24,Small,USA,Vancouver,Washington,98661,West
+FUR-FU-10002918,36,Medium,USA,Los Angeles,California,90036,West
+OFF-FA-10004854,30,Medium,USA,Long Beach,California,90805,West
+FUR-FU-10002671,61,Medium,USA,Orem,Utah,84057,West
+OFF-AR-10003651,47,Medium,USA,Los Angeles,California,90045,West
+FUR-CH-10004086,58,Large,USA,Seattle,Washington,98115,West
+OFF-PA-10001937,66,Large,USA,San Francisco,California,94110,West
+FUR-CH-10003312,37,Medium,USA,Lancaster,California,93534,West
+OFF-BI-10001524,31,Small,USA,San Francisco,California,94110,West
+OFF-BI-10001153,28,Small,USA,Lake Elsinore,California,92530,West
+OFF-BI-10001982,60,Large,USA,San Diego,California,92105,West
+TEC-CO-10001449,31,Small,USA,San Francisco,California,94122,West
+OFF-BI-10004140,53,Large,USA,Santa Ana,California,92704,West
+OFF-FA-10000490,65,Large,USA,San Francisco,California,94110,West
+OFF-AR-10001374,67,Medium,USA,Los Angeles,California,90036,West
+FUR-BO-10002268,57,Large,USA,Salinas,California,93905,West
+OFF-PA-10002713,38,Medium,USA,San Francisco,California,94122,West
+OFF-PA-10002036,63,Medium,USA,Los Angeles,California,90045,West
+TEC-AC-10003911,28,Small,USA,San Francisco,California,94122,West
+FUR-FU-10001935,44,Large,USA,Riverside,California,92503,West
+OFF-AR-10004757,28,Small,USA,San Francisco,California,94110,West
+OFF-BI-10003982,24,Medium,USA,Phoenix,Arizona,85023,West
+OFF-BI-10004492,59,Medium,USA,Oceanside,California,92054,West
+OFF-ST-10000798,70,Medium,USA,San Francisco,California,94110,West
+OFF-ST-10000934,46,Medium,USA,Louisville,Colorado,80027,West
+OFF-PA-10003724,32,Medium,USA,Murrieta,California,92563,West
+FUR-TA-10002041,35,Small,USA,Scottsdale,Arizona,85254,West
+OFF-PA-10002893,49,Large,USA,San Diego,California,92037,West
+OFF-LA-10003766,22,Medium,USA,Seattle,Washington,98103,West
+FUR-CH-10003956,24,Small,USA,Los Angeles,California,90045,West
+FUR-CH-10004886,28,Small,USA,Los Angeles,California,90004,West
+OFF-BI-10001543,25,Medium,USA,San Francisco,California,94122,West
+OFF-AR-10000369,32,Medium,USA,Los Angeles,California,90008,West
+OFF-BI-10004584,23,Small,USA,Denver,Colorado,80219,West
+OFF-ST-10003306,46,Small,USA,Mesa,Arizona,85204,West
+TEC-AC-10002600,59,Large,USA,Seattle,Washington,98105,West
+OFF-PA-10002230,44,Large,USA,Oakland,California,94601,West
+OFF-ST-10000060,31,Small,USA,San Francisco,California,94122,West
+OFF-ST-10003058,48,Large,USA,Riverside,California,92503,West
+OFF-PA-10002222,34,Medium,USA,San Francisco,California,94110,West
+OFF-ST-10001469,20,Small,USA,Escondido,California,92025,West
+OFF-AR-10004974,41,Large,USA,Los Angeles,California,90004,West
+OFF-ST-10000142,46,Large,USA,Seattle,Washington,98103,West
+TEC-AC-10001772,57,Large,USA,Los Angeles,California,90036,West
+OFF-AP-10002472,61,Large,USA,Los Angeles,California,90036,West
+FUR-TA-10001889,20,Small,USA,Seattle,Washington,98105,West
+OFF-SU-10003505,68,Large,USA,Fresno,California,93727,West
+OFF-ST-10002743,67,Medium,USA,San Francisco,California,94122,West
+OFF-PA-10003465,42,Small,USA,Pueblo,Colorado,81001,West
+TEC-PH-10000149,63,Medium,USA,Fairfield,California,94533,West
+TEC-AC-10002567,21,Small,USA,Los Angeles,California,90032,West
+OFF-ST-10001809,47,Large,USA,San Francisco,California,94110,West
+OFF-EN-10003845,46,Large,USA,San Francisco,California,94109,West
+OFF-BI-10002498,39,Medium,USA,Los Angeles,California,90008,West
+OFF-BI-10000831,66,Large,USA,Los Angeles,California,90049,West
+OFF-AR-10001662,47,Medium,USA,Tucson,Arizona,85705,West
+OFF-AR-10003856,34,Medium,USA,Pico Rivera,California,90660,West
+TEC-CO-10003236,46,Small,USA,Phoenix,Arizona,85023,West
+OFF-PA-10001667,64,Large,USA,Costa Mesa,California,92627,West
+OFF-ST-10000736,41,Medium,USA,Mesa,Arizona,85204,West
+OFF-BI-10000285,40,Small,USA,Salinas,California,93905,West
+OFF-FA-10002815,50,Medium,USA,San Francisco,California,94110,West
+OFF-ST-10004963,27,Medium,USA,Aurora,Colorado,80013,West
+OFF-SU-10002881,60,Large,USA,Phoenix,Arizona,85023,West
+OFF-BI-10002429,65,Large,USA,Los Angeles,California,90004,West
+TEC-AC-10001432,51,Large,USA,Los Angeles,California,90008,West
+TEC-PH-10002597,58,Large,USA,Vancouver,Washington,98661,West
+OFF-BI-10000404,57,Large,USA,Los Angeles,California,90004,West
+FUR-CH-10002024,58,Large,USA,Seattle,Washington,98105,West
+OFF-FA-10004248,62,Large,USA,Tucson,Arizona,85705,West
+OFF-ST-10001780,41,Medium,USA,Laguna Niguel,California,92677,West
+FUR-TA-10004256,55,Large,USA,San Diego,California,92024,West
+OFF-PA-10003441,43,Small,USA,San Diego,California,92024,West
+OFF-FA-10003467,54,Large,USA,Seattle,Washington,98103,West
+OFF-PA-10001450,61,Medium,USA,Olympia,Washington,98502,West
+FUR-FU-10001475,44,Medium,USA,Los Angeles,California,90008,West
+OFF-SU-10004498,53,Large,USA,Kent,Washington,98031,West
+TEC-PH-10000586,49,Large,USA,Los Angeles,California,90049,West
+OFF-LA-10003930,32,Small,USA,Tigard,Oregon,97224,West
+OFF-PA-10004101,22,Small,USA,San Francisco,California,94110,West
+OFF-AR-10004078,49,Medium,USA,Seattle,Washington,98105,West
+OFF-AP-10004708,45,Large,USA,Los Angeles,California,90045,West
+FUR-FU-10001979,51,Large,USA,Seattle,Washington,98115,West
+TEC-PH-10001425,30,Medium,USA,North Las Vegas,Nevada,89031,West
+OFF-ST-10001490,43,Medium,USA,San Francisco,California,94110,West
+OFF-PA-10002120,50,Medium,USA,Los Angeles,California,90008,West
+OFF-LA-10004345,59,Large,USA,San Diego,California,92037,West
+OFF-PA-10001204,30,Medium,USA,San Francisco,California,94122,West
+OFF-BI-10002949,23,Small,USA,San Diego,California,92037,West
+FUR-FU-10000010,55,Large,USA,Oakland,California,94601,West
+OFF-AP-10003287,25,Small,USA,Seattle,Washington,98115,West
+OFF-BI-10004728,52,Large,USA,Aurora,Colorado,80013,West
+FUR-FU-10000732,30,Small,USA,San Francisco,California,94122,West
+OFF-ST-10000585,63,Medium,USA,Spokane,Washington,99207,West
+OFF-BI-10002827,34,Small,USA,Broomfield,Colorado,80020,West
+FUR-FU-10003096,59,Large,USA,Pasadena,California,91104,West
+TEC-AC-10003614,20,Medium,USA,Ontario,California,91761,West
+FUR-FU-10003553,50,Large,USA,Seattle,Washington,98105,West
+OFF-ST-10002583,68,Medium,USA,Tucson,Arizona,85705,West
+OFF-LA-10001934,26,Medium,USA,Stockton,California,95207,West
+OFF-LA-10003510,27,Small,USA,Manteca,California,95336,West
+OFF-BI-10001575,44,Medium,USA,San Francisco,California,94122,West
+FUR-FU-10003394,48,Small,USA,Salt Lake City,Utah,84106,West
+OFF-EN-10001219,45,Medium,USA,San Francisco,California,94110,West
+TEC-AC-10001606,66,Medium,USA,Littleton,Colorado,80122,West
+FUR-FU-10002253,51,Small,USA,Los Angeles,California,90049,West
+OFF-PA-10004092,54,Large,USA,Pasadena,California,91104,West
+FUR-TA-10000198,41,Medium,USA,Los Angeles,California,90004,West
+OFF-ST-10000036,30,Small,USA,San Diego,California,92024,West
+TEC-PH-10002170,65,Medium,USA,Seattle,Washington,98115,West
+OFF-PA-10001954,30,Medium,USA,Seattle,Washington,98115,West
+OFF-ST-10004634,54,Medium,USA,Seattle,Washington,98115,West
+FUR-BO-10001619,70,Medium,USA,Peoria,Arizona,85345,West
+OFF-LA-10003223,66,Large,USA,Fort Collins,Colorado,80525,West
+OFF-PA-10004971,20,Small,USA,San Francisco,California,94122,West
+OFF-SU-10004261,51,Medium,USA,Fresno,California,93727,West
+OFF-BI-10003638,61,Medium,USA,San Francisco,California,94122,West
+FUR-FU-10003577,34,Medium,USA,Los Angeles,California,90036,West
+OFF-BI-10000546,49,Medium,USA,Albuquerque,New Mexico,87105,West
+OFF-LA-10004484,68,Large,USA,Louisville,Colorado,80027,West
+OFF-EN-10001532,23,Small,USA,Seattle,Washington,98115,West
+OFF-BI-10004187,24,Small,USA,Los Angeles,California,90036,West
+OFF-BI-10000301,70,Large,USA,San Francisco,California,94110,West
+OFF-AR-10003405,36,Small,USA,La Quinta,California,92253,West
+FUR-CH-10002335,66,Medium,USA,Scottsdale,Arizona,85254,West
+FUR-CH-10004675,64,Medium,USA,Los Angeles,California,90045,West
+OFF-BI-10001132,69,Large,USA,Los Angeles,California,90049,West
+OFF-LA-10001569,41,Medium,USA,Seattle,Washington,98103,West
+OFF-PA-10000176,30,Small,USA,Los Angeles,California,90045,West
+OFF-PA-10003953,25,Medium,USA,Los Angeles,California,90045,West
+OFF-AR-10001897,56,Small,USA,San Diego,California,92024,West
+TEC-PH-10001795,26,Small,USA,Pueblo,Colorado,81001,West
+OFF-AP-10000240,43,Large,USA,Vallejo,California,94591,West
+TEC-AC-10001838,31,Small,USA,Seattle,Washington,98105,West
+OFF-PA-10003651,66,Large,USA,San Diego,California,92037,West
+FUR-CH-10001394,44,Large,USA,San Francisco,California,94122,West
+OFF-PA-10003395,37,Large,USA,Murray,Utah,84107,West
+TEC-AC-10003441,36,Medium,USA,Las Cruces,New Mexico,88001,West
+OFF-FA-10002280,23,Small,USA,Seattle,Washington,98115,West
+OFF-EN-10004459,20,Small,USA,Encinitas,California,92024,West
+OFF-AP-10003266,50,Large,USA,Tucson,Arizona,85705,West
+OFF-PA-10001560,21,Small,USA,Glendale,Arizona,85301,West
+FUR-BO-10001519,28,Medium,USA,Oceanside,California,92054,West
+OFF-LA-10004093,27,Small,USA,Louisville,Colorado,80027,West
+OFF-SU-10002537,64,Large,USA,Albuquerque,New Mexico,87105,West
+OFF-ST-10003221,33,Small,USA,Apple Valley,California,92307,West
+OFF-LA-10004272,49,Medium,USA,Seattle,Washington,98105,West
+FUR-FU-10000965,25,Small,USA,Glendale,Arizona,85301,West
+TEC-AC-10000927,68,Large,USA,Oakland,California,94601,West
+OFF-PA-10001622,53,Large,USA,Mission Viejo,California,92691,West
+OFF-BI-10003684,40,Small,USA,Los Angeles,California,90004,West
+FUR-TA-10001520,62,Medium,USA,San Diego,California,92037,West
+OFF-PA-10003543,61,Large,USA,Gilbert,Arizona,85234,West
+OFF-PA-10002195,47,Small,USA,Los Angeles,California,90036,West
+OFF-ST-10001496,26,Small,USA,Aurora,Colorado,80013,West
+OFF-BI-10002931,31,Small,USA,Santa Ana,California,92704,West
+FUR-FU-10004188,53,Small,USA,Stockton,California,95207,West
+OFF-BI-10000145,27,Small,USA,San Francisco,California,94110,West
+OFF-LA-10001613,69,Medium,USA,Los Angeles,California,90036,West
+OFF-PA-10004621,21,Small,USA,Los Angeles,California,90045,West
+OFF-BI-10002012,55,Large,USA,Los Angeles,California,90036,West
+TEC-PH-10000560,70,Large,USA,Lehi,Utah,84043,West
+OFF-EN-10000461,21,Small,USA,Seattle,Washington,98103,West
+OFF-BI-10004022,36,Small,USA,Los Angeles,California,90008,West
+OFF-EN-10003862,40,Medium,USA,Seattle,Washington,98103,West
+OFF-ST-10004258,22,Small,USA,Los Angeles,California,90036,West
+FUR-FU-10002191,31,Medium,USA,Los Angeles,California,90036,West
+FUR-CH-10000309,66,Medium,USA,Los Angeles,California,90045,West
+OFF-PA-10001166,38,Small,USA,San Francisco,California,94109,West
+TEC-PH-10000148,52,Large,USA,Roseville,California,95661,West
+OFF-AR-10000203,66,Medium,USA,Fresno,California,93727,West
+OFF-PA-10001307,70,Large,USA,Los Angeles,California,90036,West
+OFF-AR-10000716,43,Small,USA,Los Angeles,California,90032,West
+OFF-BI-10003529,22,Medium,USA,Seattle,Washington,98103,West
+OFF-FA-10001754,48,Large,USA,West Jordan,Utah,84084,West
+OFF-FA-10004838,37,Medium,USA,San Francisco,California,94109,West
+OFF-BI-10004330,59,Medium,USA,Orem,Utah,84057,West
+OFF-BI-10003669,61,Large,USA,Los Angeles,California,90049,West
+FUR-CH-10002880,29,Small,USA,Los Angeles,California,90049,West
+OFF-PA-10000605,44,Large,USA,Los Angeles,California,90004,West
+OFF-BI-10004001,57,Medium,USA,Gilbert,Arizona,85234,West
+OFF-BI-10003676,46,Small,USA,San Francisco,California,94122,West
+FUR-BO-10002206,67,Medium,USA,Los Angeles,California,90036,West
+TEC-PH-10001061,41,Large,USA,Portland,Oregon,97206,West
+OFF-EN-10001539,51,Small,USA,San Francisco,California,94122,West
+OFF-ST-10001476,51,Medium,USA,Aurora,Colorado,80013,West
+OFF-AP-10003849,36,Small,USA,Seattle,Washington,98103,West
+FUR-FU-10001852,31,Medium,USA,Phoenix,Arizona,85023,West
+OFF-AR-10003759,37,Medium,USA,Los Angeles,California,90004,West
+FUR-TA-10001932,24,Small,USA,Roseville,California,95661,West
+TEC-PH-10004700,49,Large,USA,San Francisco,California,94122,West
+FUR-FU-10004952,31,Medium,USA,Pasadena,California,91104,West
+OFF-PA-10002259,57,Large,USA,Scottsdale,Arizona,85254,West
+OFF-BI-10002976,67,Medium,USA,San Jose,California,95123,West
+OFF-BI-10003694,48,Medium,USA,Seattle,Washington,98105,West
+OFF-LA-10004425,27,Medium,USA,Seattle,Washington,98115,West
+TEC-PH-10004539,66,Medium,USA,Los Angeles,California,90045,West
+TEC-PH-10003655,50,Large,USA,Carlsbad,New Mexico,88220,West
+OFF-BI-10004656,47,Medium,USA,Seattle,Washington,98115,West
+TEC-PH-10004447,66,Medium,USA,Los Angeles,California,90004,West
+OFF-AR-10004999,22,Small,USA,Los Angeles,California,90032,West
+FUR-FU-10001867,39,Medium,USA,Redlands,California,92374,West
+OFF-ST-10000676,43,Large,USA,Denver,Colorado,80219,West
+TEC-CO-10001046,37,Small,USA,Whittier,California,90604,West
+OFF-AR-10003903,67,Large,USA,Los Angeles,California,90032,West
+FUR-BO-10004467,31,Medium,USA,Santa Clara,California,95051,West
+OFF-AR-10000462,39,Medium,USA,San Francisco,California,94109,West
+TEC-PH-10004165,35,Medium,USA,San Diego,California,92037,West
+OFF-PA-10002870,28,Small,USA,Brentwood,California,94513,West
+FUR-CH-10001973,33,Small,USA,San Francisco,California,94110,West
+TEC-AC-10000580,22,Small,USA,Inglewood,California,90301,West
+TEC-AC-10004209,49,Small,USA,Los Angeles,California,90004,West
+OFF-LA-10000121,47,Large,USA,Colorado Springs,Colorado,80906,West
+OFF-AR-10004817,29,Small,USA,Arvada,Colorado,80004,West
+FUR-FU-10002554,39,Small,USA,Long Beach,California,90805,West
+TEC-PH-10003437,48,Large,USA,Hesperia,California,92345,West
+OFF-LA-10001474,37,Medium,USA,Los Angeles,California,90045,West
+OFF-PA-10003072,66,Large,USA,San Francisco,California,94122,West
+FUR-FU-10004960,25,Small,USA,San Francisco,California,94122,West
+OFF-AP-10001303,49,Medium,USA,San Francisco,California,94109,West
+TEC-PH-10002549,56,Large,USA,Tucson,Arizona,85705,West
+OFF-LA-10000262,26,Small,USA,San Francisco,California,94109,West
+OFF-PA-10003641,20,Medium,USA,Des Moines,Washington,98198,West
+OFF-PA-10004041,30,Medium,USA,Las Vegas,Nevada,89115,West
+OFF-BI-10000042,49,Large,USA,San Francisco,California,94110,West
+FUR-TA-10003008,43,Medium,USA,Seattle,Washington,98105,West
+OFF-AP-10003590,21,Medium,USA,Huntington Beach,California,92646,West
+OFF-PA-10000806,32,Small,USA,Los Angeles,California,90004,West
+OFF-PA-10000418,65,Medium,USA,Concord,California,94521,West
+FUR-TA-10001039,41,Medium,USA,Phoenix,Arizona,85023,West
+FUR-FU-10003976,43,Medium,USA,San Francisco,California,94110,West
+OFF-AP-10004980,33,Small,USA,San Diego,California,92024,West
+OFF-BI-10003708,52,Large,USA,Los Angeles,California,90045,West
+TEC-AC-10004975,31,Medium,USA,Seattle,Washington,98115,West
+FUR-CH-10004289,24,Small,USA,Parker,Colorado,80134,West
+TEC-PH-10004348,38,Small,USA,Los Angeles,California,90049,West
+FUR-FU-10001473,58,Medium,USA,Los Angeles,California,90036,West
+OFF-BI-10001765,26,Medium,USA,Los Angeles,California,90032,West
+OFF-PA-10001293,36,Small,USA,Mesa,Arizona,85204,West
+OFF-PA-10002464,48,Medium,USA,San Francisco,California,94110,West
+TEC-AC-10000865,37,Medium,USA,Los Angeles,California,90045,West
+OFF-FA-10003021,42,Medium,USA,San Francisco,California,94110,West
+TEC-AC-10001109,34,Small,USA,Seattle,Washington,98105,West
+OFF-PA-10001838,42,Small,USA,Los Angeles,California,90008,West
+OFF-ST-10004950,37,Medium,USA,Seattle,Washington,98105,West
+TEC-PH-10001300,43,Medium,USA,Marysville,Washington,98270,West
+FUR-TA-10003715,32,Small,USA,Long Beach,California,90805,West
+OFF-BI-10004965,24,Small,USA,Los Angeles,California,90004,West
+OFF-AR-10001419,25,Small,USA,Denver,Colorado,80219,West
+OFF-AR-10002221,54,Large,USA,Salem,Oregon,97301,West
+OFF-FA-10004968,68,Medium,USA,San Diego,California,92024,West
+OFF-EN-10003134,61,Medium,USA,Seattle,Washington,98115,West
+OFF-AR-10001955,26,Small,USA,Aurora,Colorado,80013,West
+OFF-ST-10001370,51,Medium,USA,Aurora,Colorado,80013,West
+OFF-BI-10000088,47,Medium,USA,Mission Viejo,California,92691,West
+TEC-AC-10003280,22,Small,USA,Vancouver,Washington,98661,West
+OFF-AR-10001044,39,Small,USA,Los Angeles,California,90036,West
+OFF-AR-10004456,61,Medium,USA,Long Beach,California,90805,West
+FUR-FU-10002937,52,Large,USA,Orem,Utah,84057,West
+TEC-AC-10003063,57,Large,USA,Los Angeles,California,90045,West
+TEC-CO-10001766,29,Small,USA,Seattle,Washington,98115,West
+OFF-PA-10004475,62,Large,USA,San Francisco,California,94110,West
+FUR-FU-10000758,52,Large,USA,Lancaster,California,93534,West
+OFF-AP-10002495,27,Small,USA,San Francisco,California,94110,West
+TEC-AC-10003133,61,Large,USA,Lake Elsinore,California,92530,West
+TEC-AC-10002006,40,Small,USA,San Diego,California,92105,West
+OFF-FA-10001843,62,Large,USA,San Francisco,California,94122,West
+OFF-LA-10003077,67,Medium,USA,Santa Ana,California,92704,West
+FUR-BO-10003965,66,Large,USA,San Francisco,California,94110,West
+FUR-BO-10003966,21,Medium,USA,Los Angeles,California,90036,West
+FUR-TA-10001307,69,Large,USA,Salinas,California,93905,West
+TEC-AC-10003590,27,Medium,USA,San Francisco,California,94122,West
+FUR-FU-10001591,31,Medium,USA,Los Angeles,California,90045,West
+OFF-BI-10001628,54,Large,USA,San Francisco,California,94122,West
+OFF-PA-10000595,44,Medium,USA,Riverside,California,92503,West
+OFF-LA-10000443,52,Large,USA,San Francisco,California,94110,West
+OFF-AP-10004233,32,Medium,USA,Phoenix,Arizona,85023,West
+FUR-CH-10004754,38,Medium,USA,Oceanside,California,92054,West
+OFF-PA-10000809,33,Small,USA,San Francisco,California,94110,West
+TEC-PH-10000895,58,Medium,USA,Louisville,Colorado,80027,West
+FUR-FU-10004973,56,Small,USA,Murrieta,California,92563,West
+OFF-ST-10000464,32,Small,USA,Scottsdale,Arizona,85254,West
+OFF-PA-10000528,53,Small,USA,San Diego,California,92037,West
+OFF-PA-10003129,25,Medium,USA,Seattle,Washington,98103,West
+OFF-BI-10002133,51,Medium,USA,Los Angeles,California,90045,West
+FUR-FU-10001617,22,Small,USA,Los Angeles,California,90004,West
+FUR-FU-10001889,63,Large,USA,San Francisco,California,94122,West
+OFF-PA-10000241,68,Large,USA,Los Angeles,California,90008,West
+OFF-AR-10001446,62,Large,USA,Denver,Colorado,80219,West
+OFF-EN-10001749,69,Large,USA,Mesa,Arizona,85204,West
+TEC-PH-10004924,41,Large,USA,Seattle,Washington,98105,West
+OFF-BI-10001757,65,Large,USA,Oakland,California,94601,West
+OFF-PA-10001878,70,Medium,USA,San Francisco,California,94122,West
+TEC-MA-10003674,54,Medium,USA,Riverside,California,92503,West
+OFF-LA-10003190,45,Small,USA,San Francisco,California,94110,West
+TEC-PH-10004345,29,Small,USA,Escondido,California,92025,West
+TEC-PH-10002483,29,Medium,USA,Los Angeles,California,90004,West
+TEC-AC-10001284,69,Large,USA,Seattle,Washington,98103,West
+OFF-BI-10002082,41,Medium,USA,Los Angeles,California,90036,West
+OFF-AP-10004785,48,Medium,USA,Los Angeles,California,90036,West
+OFF-AP-10003281,49,Large,USA,Seattle,Washington,98105,West
+OFF-BI-10001249,42,Large,USA,Fresno,California,93727,West
+TEC-PH-10003811,64,Large,USA,San Francisco,California,94122,West
+OFF-AR-10002257,41,Large,USA,Pueblo,Colorado,81001,West
+OFF-FA-10004395,62,Medium,USA,Fairfield,California,94533,West
+OFF-PA-10000533,42,Small,USA,Los Angeles,California,90032,West
+OFF-FA-10002975,22,Small,USA,San Francisco,California,94110,West
+OFF-ST-10003996,68,Medium,USA,San Francisco,California,94109,West
+TEC-AC-10002800,55,Large,USA,Los Angeles,California,90008,West
+OFF-FA-10004076,29,Small,USA,Los Angeles,California,90049,West
+OFF-AR-10001177,61,Medium,USA,Tucson,Arizona,85705,West
+OFF-BI-10001718,47,Medium,USA,Pico Rivera,California,90660,West
+FUR-BO-10002213,70,Large,USA,Phoenix,Arizona,85023,West
+TEC-PH-10000923,54,Large,USA,Costa Mesa,California,92627,West
+OFF-AP-10000124,58,Large,USA,Mesa,Arizona,85204,West
+OFF-AR-10004511,55,Medium,USA,Salinas,California,93905,West
+TEC-PH-10002807,25,Medium,USA,San Francisco,California,94110,West
+OFF-SU-10001664,64,Medium,USA,Aurora,Colorado,80013,West
+FUR-TA-10003238,45,Medium,USA,Phoenix,Arizona,85023,West
+OFF-PA-10000740,48,Large,USA,Los Angeles,California,90004,West
+FUR-FU-10004748,31,Medium,USA,Los Angeles,California,90008,West
+OFF-AP-10003842,61,Medium,USA,Vancouver,Washington,98661,West
+OFF-AR-10003469,68,Large,USA,Los Angeles,California,90004,West
+OFF-AP-10002765,26,Medium,USA,Seattle,Washington,98105,West
+TEC-PH-10001051,44,Medium,USA,Tucson,Arizona,85705,West
+OFF-AR-10000817,69,Large,USA,Laguna Niguel,California,92677,West
+OFF-BI-10002982,41,Small,USA,San Diego,California,92024,West
+OFF-PA-10004285,52,Medium,USA,San Diego,California,92024,West
+TEC-AC-10004145,28,Small,USA,Seattle,Washington,98103,West
+OFF-AP-10002222,25,Medium,USA,Olympia,Washington,98502,West
+OFF-AP-10004036,50,Small,USA,Los Angeles,California,90008,West
+OFF-AP-10002287,40,Medium,USA,Kent,Washington,98031,West
+FUR-TA-10001950,53,Medium,USA,Los Angeles,California,90049,West
+TEC-AC-10003095,23,Small,USA,Tigard,Oregon,97224,West
+FUR-FU-10001468,38,Small,USA,San Francisco,California,94110,West
+OFF-PA-10000380,41,Medium,USA,Seattle,Washington,98105,West
+OFF-AP-10000026,29,Small,USA,Los Angeles,California,90045,West
+OFF-PA-10003936,36,Small,USA,Seattle,Washington,98115,West
+OFF-AP-10001205,21,Small,USA,North Las Vegas,Nevada,89031,West
+OFF-BI-10000632,68,Large,USA,San Francisco,California,94110,West
+TEC-AC-10004864,55,Medium,USA,Los Angeles,California,90008,West
+OFF-PA-10000919,54,Large,USA,San Diego,California,92037,West
+OFF-BI-10001553,28,Small,USA,San Francisco,California,94122,West
+FUR-CH-10001714,28,Small,USA,San Diego,California,92037,West
+OFF-AR-10000315,51,Large,USA,Oakland,California,94601,West
+TEC-AC-10004171,23,Medium,USA,Seattle,Washington,98115,West
+FUR-TA-10002645,64,Large,USA,Aurora,Colorado,80013,West
+OFF-BI-10003784,67,Large,USA,San Francisco,California,94122,West
+OFF-BI-10001617,56,Large,USA,Spokane,Washington,99207,West
+FUR-FU-10002107,33,Small,USA,Broomfield,Colorado,80020,West
+TEC-PH-10000912,47,Small,USA,Pasadena,California,91104,West
+OFF-AP-10001293,35,Small,USA,Ontario,California,91761,West
+TEC-PH-10000675,59,Medium,USA,Seattle,Washington,98105,West
+OFF-AP-10002651,50,Large,USA,Tucson,Arizona,85705,West
+OFF-BI-10000829,25,Small,USA,Stockton,California,95207,West
+FUR-BO-10004357,30,Medium,USA,Manteca,California,95336,West
+OFF-BI-10001308,68,Large,USA,San Francisco,California,94122,West
+OFF-AP-10002734,67,Large,USA,Salt Lake City,Utah,84106,West
+FUR-FU-10004671,42,Large,USA,San Francisco,California,94110,West
+OFF-PA-10001752,44,Small,USA,Littleton,Colorado,80122,West
+OFF-AR-10003727,25,Small,USA,Los Angeles,California,90049,West
+TEC-AC-10001635,54,Large,USA,Pasadena,California,91104,West
+OFF-LA-10003663,30,Small,USA,Los Angeles,California,90004,West
+TEC-CO-10004722,48,Medium,USA,San Diego,California,92024,West
+FUR-FU-10003829,50,Medium,USA,Seattle,Washington,98115,West
+OFF-PA-10000697,21,Medium,USA,Seattle,Washington,98115,West
+OFF-BI-10000948,29,Small,USA,Seattle,Washington,98115,West
+OFF-PA-10000062,22,Medium,USA,Peoria,Arizona,85345,West
+TEC-PH-10002834,27,Small,USA,Fort Collins,Colorado,80525,West
+OFF-PA-10004665,36,Small,USA,San Francisco,California,94122,West
+OFF-BI-10001196,37,Large,USA,Fresno,California,93727,West
+TEC-PH-10003601,64,Medium,USA,San Francisco,California,94122,West
+OFF-BI-10002003,58,Large,USA,Los Angeles,California,90036,West
+OFF-PA-10003016,46,Small,USA,Albuquerque,New Mexico,87105,West
+TEC-MA-10003626,33,Small,USA,Louisville,Colorado,80027,West
+TEC-MA-10002412,20,Small,USA,Seattle,Washington,98115,West
+OFF-PA-10002319,33,Medium,USA,Los Angeles,California,90036,West
+TEC-PH-10002075,66,Large,USA,San Francisco,California,94110,West
+TEC-AC-10004227,63,Medium,USA,La Quinta,California,92253,West
+TEC-AC-10004127,33,Small,USA,Scottsdale,Arizona,85254,West
+OFF-AP-10000159,44,Small,USA,Los Angeles,California,90045,West
+OFF-AP-10001242,60,Medium,USA,Los Angeles,California,90049,West
+OFF-FA-10002763,67,Large,USA,Seattle,Washington,98103,West
+OFF-PA-10004239,65,Large,USA,Los Angeles,California,90045,West
+OFF-PA-10002421,36,Small,USA,Los Angeles,California,90045,West
+OFF-ST-10001128,62,Medium,USA,San Diego,California,92024,West
+OFF-PA-10000520,63,Medium,USA,Pueblo,Colorado,81001,West
+TEC-PH-10004389,24,Small,USA,Vallejo,California,94591,West
+OFF-SU-10000946,70,Large,USA,Seattle,Washington,98105,West
+FUR-FU-10001546,22,Small,USA,San Diego,California,92037,West
+OFF-PA-10003739,65,Medium,USA,San Francisco,California,94122,West
+OFF-ST-10002615,49,Large,USA,Murray,Utah,84107,West
+OFF-EN-10003286,35,Medium,USA,Las Cruces,New Mexico,88001,West
+OFF-AR-10003772,68,Medium,USA,Seattle,Washington,98115,West
+FUR-FU-10002116,64,Medium,USA,Encinitas,California,92024,West
+FUR-FU-10000305,36,Medium,USA,Tucson,Arizona,85705,West
+OFF-PA-10000213,54,Large,USA,Glendale,Arizona,85301,West
+OFF-PA-10003848,61,Large,USA,Oceanside,California,92054,West
+OFF-BI-10003655,68,Medium,USA,Louisville,Colorado,80027,West
+OFF-EN-10002312,33,Small,USA,Albuquerque,New Mexico,87105,West
+FUR-CH-10002320,30,Small,USA,Apple Valley,California,92307,West
+TEC-AC-10000397,31,Small,USA,Seattle,Washington,98105,West
+TEC-AC-10004001,40,Medium,USA,Glendale,Arizona,85301,West
+FUR-FU-10004586,48,Medium,USA,Oakland,California,94601,West
+TEC-PH-10004908,57,Large,USA,Mission Viejo,California,92691,West
+OFF-LA-10000407,37,Small,USA,Los Angeles,California,90004,West
+OFF-ST-10002301,20,Small,USA,San Diego,California,92037,West
+TEC-PH-10003171,57,Medium,USA,Gilbert,Arizona,85234,West
+TEC-MA-10002428,55,Large,USA,Los Angeles,California,90036,West
+OFF-AP-10002867,26,Medium,USA,Aurora,Colorado,80013,West
+FUR-BO-10002916,67,Large,USA,Santa Ana,California,92704,West
+OFF-PA-10000174,42,Large,USA,Stockton,California,95207,West
+FUR-FU-10002703,47,Medium,USA,San Francisco,California,94110,West
+TEC-PH-10002415,44,Small,USA,Los Angeles,California,90036,West
+OFF-PA-10004996,30,Medium,USA,Los Angeles,California,90045,West
+FUR-BO-10001608,60,Large,USA,Los Angeles,California,90036,West
+OFF-BI-10003476,68,Medium,USA,Lehi,Utah,84043,West
+TEC-MA-10002859,32,Medium,USA,Seattle,Washington,98103,West
+OFF-LA-10001982,54,Small,USA,Los Angeles,California,90008,West
+OFF-AR-10004062,68,Large,USA,Seattle,Washington,98103,West
+OFF-ST-10000321,21,Medium,USA,Los Angeles,California,90036,West
+TEC-AC-10004859,42,Medium,USA,Los Angeles,California,90036,West
+OFF-SU-10000432,38,Small,USA,Los Angeles,California,90045,West
+OFF-AR-10002987,35,Small,USA,San Francisco,California,94109,West
+FUR-FU-10003026,40,Small,USA,Roseville,California,95661,West
+OFF-FA-10001332,58,Large,USA,Fresno,California,93727,West
+OFF-PA-10000069,41,Medium,USA,Los Angeles,California,90036,West
+TEC-AC-10004814,48,Large,USA,Los Angeles,California,90032,West
+OFF-BI-10004318,50,Small,USA,Seattle,Washington,98103,West
+TEC-PH-10002789,42,Medium,USA,West Jordan,Utah,84084,West
+OFF-BI-10004828,68,Medium,USA,San Francisco,California,94109,West
+FUR-FU-10002396,60,Large,USA,Orem,Utah,84057,West
+TEC-AC-10002331,69,Large,USA,Los Angeles,California,90049,West
+OFF-AR-10004165,62,Large,USA,Los Angeles,California,90049,West
+FUR-FU-10003798,48,Small,USA,Los Angeles,California,90004,West
+TEC-AC-10002942,61,Large,USA,Gilbert,Arizona,85234,West
+OFF-LA-10002945,58,Medium,USA,San Francisco,California,94122,West
+OFF-AP-10004655,53,Medium,USA,Los Angeles,California,90036,West
+TEC-AC-10000199,21,Small,USA,Portland,Oregon,97206,West
+OFF-AR-10001227,57,Medium,USA,San Francisco,California,94122,West
+OFF-PA-10004248,45,Small,USA,Aurora,Colorado,80013,West
+FUR-FU-10003930,23,Small,USA,Seattle,Washington,98103,West
+OFF-BI-10000216,55,Medium,USA,Phoenix,Arizona,85023,West
+TEC-MA-10001047,22,Small,USA,Los Angeles,California,90004,West
+TEC-MA-10003246,51,Small,USA,Roseville,California,95661,West
+OFF-PA-10000556,22,Small,USA,San Francisco,California,94122,West
+OFF-EN-10003068,28,Medium,USA,Pasadena,California,91104,West
+OFF-LA-10000414,32,Small,USA,Scottsdale,Arizona,85254,West
+OFF-AP-10002998,30,Medium,USA,San Jose,California,95123,West
+FUR-BO-10004690,23,Small,USA,Seattle,Washington,98105,West
+OFF-AR-10002445,50,Medium,USA,Seattle,Washington,98115,West
+FUR-TA-10003392,59,Medium,USA,Los Angeles,California,90045,West
+OFF-ST-10001932,51,Medium,USA,Carlsbad,New Mexico,88220,West
+OFF-AR-10001761,38,Medium,USA,Seattle,Washington,98115,West
+OFF-PA-10003022,44,Medium,USA,Los Angeles,California,90004,West
+OFF-ST-10003805,42,Large,USA,Los Angeles,California,90032,West
+OFF-LA-10003388,45,Small,USA,Redlands,California,92374,West
+FUR-FU-10003424,34,Small,USA,Denver,Colorado,80219,West
+OFF-AP-10004052,21,Small,USA,Whittier,California,90604,West
+TEC-CO-10001943,32,Medium,USA,Los Angeles,California,90032,West
+TEC-PH-10001305,28,Medium,USA,Santa Clara,California,95051,West
+TEC-AC-10002018,63,Large,USA,San Francisco,California,94109,West
+OFF-PA-10004381,57,Large,USA,San Diego,California,92037,West
+TEC-MA-10000752,62,Large,USA,Brentwood,California,94513,West
+OFF-AR-10001231,59,Medium,USA,San Francisco,California,94110,West
+TEC-PH-10004875,53,Large,USA,Inglewood,California,90301,West
+TEC-PH-10003356,43,Small,USA,Los Angeles,California,90004,West
+OFF-AP-10000390,41,Small,USA,Colorado Springs,Colorado,80906,West
+OFF-ST-10000136,46,Medium,USA,Arvada,Colorado,80004,West
+FUR-FU-10001025,56,Large,USA,Long Beach,California,90805,West
+OFF-LA-10004178,48,Large,USA,Hesperia,California,92345,West
+OFF-SU-10004737,32,Small,USA,Los Angeles,California,90045,West
+FUR-TA-10001691,54,Small,USA,San Francisco,California,94122,West
+TEC-MA-10003173,23,Small,USA,San Francisco,California,94122,West
+TEC-MA-10000423,21,Medium,USA,San Francisco,California,94109,West
+OFF-PA-10001215,30,Small,USA,Tucson,Arizona,85705,West
+OFF-PA-10000859,49,Medium,USA,San Francisco,California,94109,West
+OFF-PA-10000048,29,Small,USA,Des Moines,Washington,98198,West
+OFF-PA-10003036,53,Medium,USA,Las Vegas,Nevada,89115,West
+OFF-ST-10003572,20,Small,USA,San Francisco,California,94110,West
+OFF-ST-10003994,35,Medium,USA,Seattle,Washington,98105,West
+FUR-CH-10001545,31,Small,USA,Huntington Beach,California,92646,West
+FUR-FU-10004245,61,Medium,USA,Los Angeles,California,90004,West
+OFF-PA-10001826,56,Medium,USA,Concord,California,94521,West
+TEC-MA-10001031,40,Small,USA,Phoenix,Arizona,85023,West
+TEC-PH-10002114,56,Medium,USA,San Francisco,California,94110,West
+OFF-PA-10001801,68,Large,USA,San Diego,California,92024,West
+OFF-AP-10001564,67,Medium,USA,Los Angeles,California,90045,West
+TEC-MA-10002073,52,Small,USA,Seattle,Washington,98115,West
+OFF-PA-10000300,50,Large,USA,Parker,Colorado,80134,West
+OFF-PA-10001260,54,Medium,USA,Los Angeles,California,90049,West
+TEC-MA-10002930,63,Large,USA,Los Angeles,California,90036,West
+OFF-PA-10003205,26,Small,USA,Los Angeles,California,90032,West
+TEC-MA-10003230,63,Large,USA,Mesa,Arizona,85204,West
+OFF-AP-10003278,69,Medium,USA,San Francisco,California,94110,West
+TEC-AC-10004420,55,Large,USA,Los Angeles,California,90045,West
+TEC-PH-10004094,55,Large,USA,San Francisco,California,94110,West
+OFF-AP-10001634,52,Large,USA,Seattle,Washington,98105,West
+OFF-PA-10001837,64,Medium,USA,Los Angeles,California,90008,West
+OFF-AR-10003896,24,Small,USA,Seattle,Washington,98105,West
+OFF-PA-10001243,66,Large,USA,Marysville,Washington,98270,West
+FUR-FU-10003806,44,Medium,USA,Long Beach,California,90805,West
+OFF-LA-10002473,51,Large,USA,Los Angeles,California,90004,West
+FUR-FU-10003374,28,Medium,USA,Denver,Colorado,80219,West
+OFF-ST-10003641,50,Large,USA,Salem,Oregon,97301,West
+TEC-MA-10004086,41,Small,USA,San Diego,California,92024,West
+OFF-AR-10000937,28,Small,USA,Seattle,Washington,98115,West
+FUR-FU-10002030,52,Large,USA,Aurora,Colorado,80013,West
+OFF-AP-10004136,69,Large,USA,Aurora,Colorado,80013,West
+OFF-AR-10003986,35,Medium,USA,Mission Viejo,California,92691,West
+OFF-PA-10000312,67,Large,USA,Vancouver,Washington,98661,West
+TEC-MA-10003493,49,Medium,USA,Los Angeles,California,90036,West
+TEC-PH-10002817,29,Small,USA,Long Beach,California,90805,West
