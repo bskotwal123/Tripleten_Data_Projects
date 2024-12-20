@@ -60,4 +60,4 @@ The project uses **Power BI** for data analysis and visualization, and it provid
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/bskotwal123/Tripleten_Data_Projects
+   git clone https://github.com/bskotwal123/Tripleten_Data_Projects.git
